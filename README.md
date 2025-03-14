@@ -14,3 +14,13 @@ SoC-Security-Architecture/ │── docs/ # Documentation & architecture diagra
 1. Clone the repo:  
    ```bash
    git clone https://github.com/YOUR_USERNAME/SoC-Security-Architecture.git
+cd SoC-Security-Architecture
+
+---
+
+### **Step 5: Commit and Push to GitHub**
+1. Add all files to Git:
+   ```bash
+   git add .
+git commit -m "Initial commit - Added SoC Security Architecture structure"
+
