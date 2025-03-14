@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Ainny1
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python code
-- 💞️ I’m looking to collaborate on building a mobile app
-- 📫 How to reach me will be via email
+# SoC Security Architecture
 
-<!---
-Ainny1/Ainny1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Overview
+This repository provides a Security Operations Center (SoC) Security Architecture including:
+- Security Monitoring & Logging
+- Incident Response Playbooks
+- Threat Intelligence Automation
+- Compliance & Risk Management
+- Security Automation & Orchestration
+
+## Directory Structure
